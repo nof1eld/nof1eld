@@ -4,4 +4,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nof1eld&label=Visitors&color=5de2e7&style=flat-square" /> </p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nof1eld&theme=black-ice&hide_border=true" alt="GitHub Streak" /></a>
+<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nof1eld&theme=black-ice&hide_border=true" alt="GitHub Streak" /></a></p>
